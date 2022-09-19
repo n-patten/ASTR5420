@@ -1,19 +1,5 @@
-# ASTR5160
+# ASTR5420
 
-This is code for ASTR5160 Techniques class.
+This is code for ASTR-5420 Stellar Evolution class.
 
-Code for ASTR-5160 at the University of Wyoming
-
-Topics covered (not in order):
-
--Boolean indexing
-
--Arrays
-
--Celestial coordinates
-
--Areas on a sphere
-
--Sections of the celestial sphere
-
--Pymangle
+Code for ASTR-5420 at the University of Wyoming with Dr. Moe
